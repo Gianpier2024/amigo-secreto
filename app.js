@@ -14,7 +14,6 @@ function agregarAmigo(){
     console.log(amigos);
 
     inputAmigo.value = "";
-
     actualizarListaAmigos();
 }
 
